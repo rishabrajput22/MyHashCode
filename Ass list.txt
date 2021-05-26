@@ -1,0 +1,3 @@
+Assignment 1 = Callback Hell and Latitude-Longitude done
+Assignment 2 = Infinite Scroll done
+Assignment 3 = News Api & Weather Api pending
